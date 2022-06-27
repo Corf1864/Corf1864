@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Corf1864
+- 👋 Hi, I’m @Corf
 - 👀 I’m interested in game development and basicly security 
 - 🌱 I’m currently learning Maya, Cinema4d, Unity, C#..
 - 💞️ I’m looking to collaborate on ..
